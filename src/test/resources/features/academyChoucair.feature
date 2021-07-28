@@ -6,7 +6,7 @@
     Scenario: Search for automation course
       Given than brandon wants to learn automation at the academy Choucair
         | strUser    | strPassword   |
-        | 1082923184 | Choucair2021* |
+        | user       | password      |
       When he search for the course on the Choucair Academy platform
         | strCourse                                              |
         | AiU Certified Tester in Artificial Intelligence (CTAI) |
